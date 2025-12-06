@@ -10,7 +10,7 @@ jobs:
       - run: echo "A job consists of"
       - run: echo "one or more steps"
       - run: echo "which run sequentially"
-      - run: echo "within the same compute environment
+      - run: echo "within the same compute environment"
 
   job-2:
     runs-on: ubuntu-24.04
